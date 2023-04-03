@@ -1,0 +1,23 @@
+Company 1
+https://example.com/article-A1
+https://example.com/article-B1
+https://example.com/article-C1
+https://example.com/article-D1
+https://example.com/article-E1
+https://example.com/article-F1
+https://example.com/article-G1
+company 2
+https://example.com/article-A2
+https://example.com/article-B2
+https://example.com/article-C2
+https://example.com/article-D2
+https://example.com/article-E2
+Company 3
+.
+.
+.
+company n
+https://example.com/article-An
+https://example.com/article-Bn
+https://example.com/article-Cn
+
